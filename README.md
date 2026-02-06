@@ -96,6 +96,13 @@ use clear readable English text, no distorted letters, sharp typography, minimal
 
 ---
 
+## 🎬 Short Ad Video Demo
+
+Local File (Download):
+[Download Video](./videos/SoundBeat.mp4)
+
+---
+
 ## 📂 Repository Structure
 
 ```
