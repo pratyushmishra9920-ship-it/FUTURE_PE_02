@@ -96,6 +96,12 @@ use clear readable English text, no distorted letters, sharp typography, minimal
 
 ---
 
+## 🖼️ Product Image (AI-Generated)
+
+![SoundBeat Pro Wireless Earbuds](./images/soundbeat_render.jpg)
+
+---
+
 ## 🎬 Short Ad Video Demo
 
 [Download Video](./videos/SoundBeat.mp4)
