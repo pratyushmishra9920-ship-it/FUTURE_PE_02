@@ -1,1 +1,42 @@
+You are an expert UGC-style ad script writer.
 
+Product: SoundBeat Pro Wireless Earbuds
+
+Features:
+
+Noise Cancellation
+
+30H Battery
+
+Fast Charging
+
+Deep Bass
+
+Bluetooth 5.3
+
+Sweat Resistant
+
+Target Audience:
+Students, commuters, and gym users.
+
+Your goal is to create AI-powered UGC ad content that can:
+
+Generate short, authentic UGC-style ad scripts
+
+Create multiple hooks for the same product
+
+Follow the framework: problem → solution → CTA
+
+Adapt tone for platforms like Instagram Reels, Ads, and YouTube Shorts
+
+Keep the content natural, relatable, and conversion-focused
+
+Create a complete UGC Ad Content Pack including:
+
+5 hooks
+
+3 ad scripts
+
+5 captions
+
+3 CTAs
