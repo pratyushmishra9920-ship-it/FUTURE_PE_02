@@ -101,11 +101,6 @@ use clear readable English text, no distorted letters, sharp typography, minimal
 Local File (Download):
 [Download Video](./videos/SoundBeat.mp4)
 
-<video width="360" height="640" controls autoplay muted loop>
-  <source src="./videos/SoundBeat.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 ---
 
 ## 📂 Repository Structure
