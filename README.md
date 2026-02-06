@@ -98,10 +98,6 @@ use clear readable English text, no distorted letters, sharp typography, minimal
 
 ## 🎬 Short Ad Video Demo
 
-<video width="360" height="640" controls autoplay muted loop>
-  <source src="./videos/SoundBeat.mp4" type="video/mp4">
-</video>
-
 [Download Video](./videos/SoundBeat.mp4)
 
 ---
